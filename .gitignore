@@ -17,6 +17,8 @@ coverage
 .docusaurus
 .cache-loader
 
-docs/Install.md
+Install.md
+Enarx_toml.md
 docs/Quickstart.mdx
-docs/Enarx_toml.md
+docs/Running/Publish.md
+versioned_staging/Quickstart.mdx
